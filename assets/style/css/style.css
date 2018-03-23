@@ -12,8 +12,8 @@ html {
 
 body {
   background-image: url("../assets/img/smartphone.png");
-  /* max-width: 375px;
-  max-height: 667px; */
+  max-width: 375px;
+  max-height: 667px;
 }
 
 *, *:before, *:after {
